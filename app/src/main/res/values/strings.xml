@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tabuada</string>
+    <string name="textoTabuada">Vamos calcular a tabuada, digite um valor e daremos a você a tabuada do numero escolhido</string>
+    <string name="resultado">%s x %s = %s</string>
+    <string name="valor_digitado_tabuada">Digite o valor da tabuada</string>
+</resources>
